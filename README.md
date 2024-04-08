@@ -1,6 +1,6 @@
 ![logo](https://github.com/ashokkkkwr/ashokkkkwr/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ashok</h1>
-<h3 align="center">A passionate frontend developer from nepal India</h3>
+<h3 align="center">A passionate frontend developer from nepal. </h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokkkkwr&label=Profile%20views&color=0e75b6&style=flat" alt="ashokkkkwr" /> </p>
 
 - 🌱 I’m currently learning **React, Node**
