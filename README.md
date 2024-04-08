@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok</h1>
 <h3 align="center">A passionate frontend developer from nepal India</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952xw1nwf24kmkbhzsctd1bqa2wxf5un3sj2lyd0b2a&ep=v1_gifs_search&rid=200w.gif&ct=g"
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokkkkwr&label=Profile%20views&color=0e75b6&style=flat" alt="ashokkkkwr" /> </p>
 
 - 🌱 I’m currently learning **React, Node**
